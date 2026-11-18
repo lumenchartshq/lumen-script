@@ -1,6 +1,6 @@
 {
   "name": "@lumencharts/script",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lumen Script: a browser-safe engine that compiles and runs Pine Script® v5 and v6 indicators and strategies bar by bar.",
   "license": "AGPL-3.0-only",
   "homepage": "https://docs.lumencharts.com/charting-library/studies/lumen-script",
